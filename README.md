@@ -1,3 +1,3 @@
 # 1A_lab1
 
-I just created a virtual environment, now I am still downloading VS Code, Python etc..
+An HTTP GET request was initiated using the requests library to retrieve the raw HTML content from the target URL. The resulting data was then persisted into a text file to ensure data availability for subsequent parsing stages.
